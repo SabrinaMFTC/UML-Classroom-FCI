@@ -37,8 +37,22 @@
 *&lt;Introdução do projeto&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+**Requisitos Funcionais**
+1. Cada professor deve possuir um cadastro e se identificar para ter acesso às funcionalidades do sistema;
+2. O sistema deve realizar uma dupla autenticação para que o professor acessar a plataforma;
+3. O sistema deve contabilizar as ausências dos alunos em um banco de dados duas vezes ao dia, sendo que cada ausência será computada como meia falta;
+4. O sistema deve calcular a frequência do aluno com base na quantidade de faltas armazenadas no banco de dados e no número total de aulas prevista para o ano letivo;
+5. O sistema deve notíficar, por e-mail, os pais ou responsáveis quando a porcetagem de comparecimento às aulas dadas até o momento estiver abaixo de 80%;
+6. O aluno com mais de 25% de faltas deve ser automaticamente reprovado
 
+**Requisitos Não Funcionais**
+1. O sistema deve contar com ferramentas de acessibilidade (tamanho de fonte, cor de fonte e leitores de tela);
+2. O sistema deve ser implementado em web;
+3. O sistema deve ser responsivo;
+4. O sistema deve ser fácil de navegar, com um design intuitivo, claro e consistente;
+5. O sistema deve permitir o acesso por meio de dispositivos móveis;
+6. O sistema deve realizar backup dos dados;
+7. O sistema deve permitir múltiplos acessos simultâneos.
 # Diagrama de Atividades
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
