@@ -51,7 +51,7 @@
 3. O sistema deve ser responsivo;
 4. O sistema deve ser fácil de navegar, com um design intuitivo, claro e consistente;
 5. O sistema deve permitir o acesso por meio de dispositivos móveis;
-6. O sistema deve realizar backup dos dados;
+6. O sistema deve realizar backup dos dados (*online* e *offline*);
 7. O sistema deve permitir múltiplos acessos simultâneos.
 # Diagrama de Atividades
 
