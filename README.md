@@ -6,7 +6,7 @@
 
 # Descrição
 
-Este projeto consiste na implementação de um sistema de chamada e de calculo de presença em uma escola do ensino fundamental. Entendendo-se implementação como a análise dos requisitos funcionais e não funcionais, diagramação de atividades, de casos de uso, de sequência, de classes, de estados e de implementação.
+Este projeto consiste na implementação de um sistema de chamada e de cálculo de presença em uma escola do ensino fundamental. A implementação deste trabalho abrange a análise de requisitos funcionais e não funcionais, a diagramação das atividades e dos casos de uso, de sequência, de classes, de estados e de implantação.
 
 # Documentação
 
