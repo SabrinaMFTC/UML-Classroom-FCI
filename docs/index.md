@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*&lt;Escola Quântica Tecnológica: Presença&gt;*
 </center></font>
 
 >*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
@@ -59,7 +59,7 @@
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![Diagrama de casos de uso](src/casos-de-uso.png)
 
 # Descrição dos Casos de Uso
 
