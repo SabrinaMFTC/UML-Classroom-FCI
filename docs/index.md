@@ -59,7 +59,7 @@
 
 # Diagrama de Casos de Uso
 
-![Diagrama de casos de uso](src/casos-de-uso.png)
+![Diagrama de casos de uso](/src/casos-de-uso.png)
 
 # Descrição dos Casos de Uso
 
