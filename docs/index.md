@@ -1,23 +1,21 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
-<h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
+<h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/ciencia-da-computacao">Ciência da Computação</a></h3>
 
 
 <font size="+12"><center>
 *&lt;Escola Quântica Tecnológica: Presença&gt;*
 </center></font>
 
->*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
-
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
-
 **Conteúdo**
 
-- [Autores](#autores)
+- [Autores:](#autores)
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Análise de Requisitos Funcionais e Não-Funcionais](#análise-de-requisitos-funcionais-e-não-funcionais)
 - [Diagrama de Atividades](#diagrama-de-atividades)
 - [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)
 - [Descrição dos Casos de Uso](#descrição-dos-casos-de-uso)
+  - [Caso de Uso: Fazer Login](#caso-de-uso-fazer-login)
+  - [Caso de Uso: Fazer Chamada](#caso-de-uso-fazer-chamada)
 - [Diagrama de Sequência](#diagrama-de-sequência)
 - [Diagrama de Classes](#diagrama-de-classes)
 - [Diagrama de Estados](#diagrama-de-estados)
@@ -25,7 +23,7 @@
 - [Referências](#referências)
 
 
-# Autores
+# Autores:
 
 * Gustavo Vilela Mitraud
 * Sabrina Midori Futami Teixeira de Carvalho
@@ -63,7 +61,29 @@
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+## Caso de Uso: Fazer Login 
+- **Ator Principal**: Professor 
+- **Pré Condições**: Professor deve estar cadastrado no sistema 
+- **Pós Condições:** Professor faz login no sistema e as funções de fazer chamada são disponibilizadas para ele 
+- **Fluxo:**
+- 1. (Professor) (Opcional) Professor escolhe as opções de acessibilidade
+- 2. (Sistema) (Opcional) Sistema muda sua interface de acordo com a opção escolhida 
+- 3. (Professor) Professor preenche suas credênciais nos campos de login e senha
+- 4. (Sistema) Sistema libera acesso ao professor caso suas credênciais estejam corretas 
+- 4. (Sistema) Sistema exibe uma mensagem de erro caso as credências estejam incorretas 
+
+## Caso de Uso: Fazer Chamada 
+- **Ator Principal:** Professor 
+- **Pré Condições:** Professor deve fazer Login no sistema  
+- **Pós Condições:** A chamada é computada no sistema 
+- **Fluxo:** 
+- 1. (Professor) (Opcional) Professor muda as configurações de acessibilidade 
+- 2. (Sistema) (Opcional) Sistema muda sua interface por causa da acessibilidade 
+- 3. (Professor) Professor realiza a chamada, selecionando os alunos que não estão presente na aula 
+- 4. (Sistema) Caso seja a primeira aula, sistema computa meia falta para os alunos não presentes 
+- 4. (Sistema) Caso seja a segunda aula, sistema computa falta inteira para os alunos não presentes 
+- 5. (Sistema) Sistema verifica automaticamente se deve enviar o relatorio de faltas para os pais 
+- 6. (Sistema) Sistema verifica automaticamente se deve reprovar um aluno por falta 
 
 # Diagrama de Sequência
 
