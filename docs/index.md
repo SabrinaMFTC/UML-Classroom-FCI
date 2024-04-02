@@ -32,7 +32,7 @@
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+  Este projeto consiste na implementação de um sistema de chamada e de cálculo de presença em uma escola do ensino fundamental. A implementação deste trabalho abrange a análise dos requisitos funcionais e não funcionais, a diagramação de atividades, de casos de uso, de sequência, de classes, de estados e de implantação.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 **Requisitos Funcionais**
