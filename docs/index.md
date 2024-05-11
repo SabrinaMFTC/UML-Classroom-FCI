@@ -87,7 +87,17 @@
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+## Realizar Chamada
+
+![Diagrama para Realizar Chamadas](../src/realizarChamada.png)
+
+## Efetuar Login
+
+![Diagrama para Efetuar Login](../src/efetuarLogin.png)
+
+## Verificar Faltas
+
+![Diagrama para Verificar Faltas](../src/verificarFaltas.png)
 
 # Diagrama de Classes
 
