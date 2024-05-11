@@ -17,6 +17,9 @@
   - [Caso de Uso: Fazer Login](#caso-de-uso-fazer-login)
   - [Caso de Uso: Fazer Chamada](#caso-de-uso-fazer-chamada)
 - [Diagrama de Sequência](#diagrama-de-sequência)
+  - [Realizar Chamada](#realizar-chamada)
+  - [Efetuar Login](#efetuar-login)
+  - [Verificar Faltas](#verificar-faltas)
 - [Diagrama de Classes](#diagrama-de-classes)
 - [Diagrama de Estados](#diagrama-de-estados)
 - [Diagrama de Implantação](#diagrama-de-implantação)
@@ -87,7 +90,17 @@
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+## Realizar Chamada
+
+![Diagrama para Realizar Chamadas](../src/realizarChamada.png)
+
+## Efetuar Login
+
+![Diagrama para Efetuar Login](../src/efetuarLogin.png)
+
+## Verificar Faltas
+
+![Diagrama para Verificar Faltas](../src/verificarFaltas.png)
 
 # Diagrama de Classes
 
