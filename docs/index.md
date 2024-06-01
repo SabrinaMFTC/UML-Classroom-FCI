@@ -108,7 +108,7 @@ O seguinte grupo tem como objetivo modelar um projeto que visa implementar um si
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![Diagrama de Estados](../src/DiagramaEstados.png)
 
 # Diagrama de Implantação
 
