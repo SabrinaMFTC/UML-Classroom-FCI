@@ -35,7 +35,7 @@
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+O seguinte grupo tem como objetivo modelar um projeto que visa implementar um sistema de contabilização de faltas dos alunos da Escola Quântica Tecnológica. A seguir, serão explicitados os mais diversos diagramas, que dissecarão os modos como o sistema deve se comportar.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 **Requisitos Funcionais**
@@ -104,7 +104,7 @@
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![Diagrama de Classes](../src/classDiagram.png)
 
 # Diagrama de Estados
 
