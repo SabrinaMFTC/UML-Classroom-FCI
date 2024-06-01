@@ -116,4 +116,4 @@ O seguinte grupo tem como objetivo modelar um projeto que visa implementar um si
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+- PRESSMAN, Roger S.; MAXIM, Bruce R. Engenharia de software. [Digite o Local da Editora]: Grupo A, 2021. E-book. ISBN 9786558040118. Disponível em: https://app.minhabiblioteca.com.br/#/books/9786558040118/. Acesso em: 01 jun. 2024.
