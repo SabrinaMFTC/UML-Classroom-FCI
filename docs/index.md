@@ -35,7 +35,7 @@
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+O seguinte grupo tem como objetivo modelar um projeto que visa implementar um sistema de contabilização de faltas dos alunos da Escola Quântica Tecnológica. A seguir, serão explicitados os mais diversos diagramas, que dissecarão os modos como o sistema deve se comportar.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 **Requisitos Funcionais**
@@ -104,11 +104,11 @@
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![Diagrama de Classes](../src/classDiagram.png)
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![Diagrama de Estados](../src/DiagramaEstados.png)
 
 # Diagrama de Implantação
 
@@ -116,4 +116,4 @@
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+- PRESSMAN, Roger S.; MAXIM, Bruce R. Engenharia de software. [Digite o Local da Editora]: Grupo A, 2021. E-book. ISBN 9786558040118. Disponível em: https://app.minhabiblioteca.com.br/#/books/9786558040118/. Acesso em: 01 jun. 2024.
