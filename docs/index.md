@@ -112,7 +112,7 @@ O seguinte grupo tem como objetivo modelar um projeto que visa implementar um si
 
 # Diagrama de Implantação
 
-[Diagrama de Implementação](../src/IMPLEMENTATION-DIAGRAM.drawio.png)
+![Diagrama de Implementação](../src/IMPLEMENTATION-DIAGRAM.drawio.png)
 
 # Referências
 
