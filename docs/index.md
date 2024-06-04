@@ -112,7 +112,7 @@ O seguinte grupo tem como objetivo modelar um projeto que visa implementar um si
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+[Diagrama de Implementação](../src/IMPLEMENTATION-DIAGRAM.drawio.png)
 
 # Referências
 
